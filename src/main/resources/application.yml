@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: hadoop_demo
+
+server:
+  port: 8080
+
